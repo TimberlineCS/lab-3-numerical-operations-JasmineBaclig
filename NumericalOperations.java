@@ -1,3 +1,7 @@
+//Jasmine Baclig
+//AP Computer Science A - Period 3
+//September 1, 2020
+
 public class NumericalOperations {
   public static void main(String[] args) {
 
