@@ -28,6 +28,7 @@ public class NumericalOperations {
     int thirdDigit = (tens - ones) / 10; //3
     int fourthDigit = ones; //4
 
-    System.out.println(fourthDigit + "" + thirdDigit + "" + secondDigit + "" + firstDigit);
+    String reverseNum = fourthDigit + "" + thirdDigit + "" + secondDigit + "" + firstDigit;
+    System.out.println(reverseNum);
   }
 }
